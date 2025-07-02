@@ -1,0 +1,20 @@
+{
+	"namespace": "D6",
+	"displayName": "Playable Dice",
+	"version": "5.1.1",
+	"synchronyVersion": "4.1.1",
+	"description": "Dice Mode:\nUnleash the power of the D6.\nWith unlimited item slots!",
+	"author": "JagYayu☣",
+	"dependencies": {},
+	"api": {"scriptPath":""},
+	"icon": "DiceIcon.png",
+	"banner": "DiceBanner.png",
+	"tags": [],
+	"name": "D6_io_4784190",
+	"changelog": "- no innate attack perform when forced to move",
+	"homepageURL": "https://mod.io/g/crypt/m/d6",
+	"modioID": "4784190",
+	"modioUserID": 13661250,
+	"pendingVersion": "5.2.0",
+	"visibility": 0
+}
